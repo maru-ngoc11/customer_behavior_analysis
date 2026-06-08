@@ -4,6 +4,9 @@
 # This project analyzes 100K+ real e-commerce orders from Olist, Brazil's largest online marketplace. 
 # The goal is to uncover customer purchasing behavior, delivery performance, and regional trends through 8 business questions answered using Python, MySQL, and Power BI.
 
+## Report
+https://gamma.app/docs/Olist-Customer-Behavior-Analysis-c36f2f52wsv82po
+
 ## Business Questions
 -- 1.At what time do customers place the most orders? (by hour, day, month)
 -- 2.Which product categories have the highest number of orders and revenue?
